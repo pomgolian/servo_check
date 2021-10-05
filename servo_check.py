@@ -1,3 +1,5 @@
+# for testing servo positions
+
 global servo
 global direction
 servo = 0
